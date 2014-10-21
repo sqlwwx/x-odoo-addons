@@ -1,0 +1,185 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* course
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-09 12:24+0000\n"
+"PO-Revision-Date: 2014-10-09 12:24+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: course
+#: model:ir.actions.act_window,help:course.open_view_course_all
+msgid "<p>\n"
+"                    students\n"
+"                    ....\n"
+"                </p>\n"
+"            "
+msgstr "<p>                    students                    ....                </p>            "
+
+#. module: course
+#: view:course.course:course.view_course
+#: view:course.course:course.view_course_form
+#: model:ir.ui.menu,name:course.menu_courses
+msgid "Course"
+msgstr "Course"
+
+#. module: course
+#: view:course.course:course.view_course_form
+msgid "Course Title"
+msgstr "Course Title"
+
+#. module: course
+#: view:course.course:course.view_course_calendar
+#: model:ir.actions.act_window,name:course.open_view_course_all
+#: model:ir.ui.menu,name:course.menu_course_management
+msgid "Courses"
+msgstr "Courses"
+
+#. module: course
+#: field:course.course,create_uid:0
+msgid "Created by"
+msgstr "Created by"
+
+#. module: course
+#: field:course.course,create_date:0
+msgid "Created on"
+msgstr "Created on"
+
+#. module: course
+#: field:course.course,date_end:0
+msgid "Date end"
+msgstr "结束日期"
+
+#. module: course
+#: help:course.course,message_last_post:0
+msgid "Date of the last message posted on the record."
+msgstr "Date of the last message posted on the record."
+
+#. module: course
+#: field:course.course,date_start:0
+msgid "Date start"
+msgstr "开课日期"
+
+#. module: course
+#: field:course.course,description:0
+msgid "Description"
+msgstr "描述"
+
+#. module: course
+#: model:ir.model,name:course.model_course_course
+msgid "Email Thread"
+msgstr "邮件链"
+
+#. module: course
+#: field:course.course,message_follower_ids:0
+msgid "Followers"
+msgstr "Followers"
+
+#. module: course
+#: help:course.course,message_summary:0
+msgid "Holds the Chatter summary (number of messages, ...). This summary is directly in html format in order to be inserted in kanban views."
+msgstr "Holds the Chatter summary (number of messages, ...). This summary is directly in html format in order to be inserted in kanban views."
+
+#. module: course
+#: field:course.course,id:0
+msgid "ID"
+msgstr "ID"
+
+#. module: course
+#: help:course.course,message_unread:0
+msgid "If checked new messages require your attention."
+msgstr "If checked new messages require your attention."
+
+#. module: course
+#: field:course.course,message_is_follower:0
+msgid "Is a Follower"
+msgstr "Is a Follower"
+
+#. module: course
+#: field:course.course,message_last_post:0
+msgid "Last Message Date"
+msgstr "Last Message Date"
+
+#. module: course
+#: field:course.course,write_uid:0
+msgid "Last Updated by"
+msgstr "Last Updated by"
+
+#. module: course
+#: field:course.course,write_date:0
+msgid "Last Updated on"
+msgstr "Last Updated on"
+
+#. module: course
+#: field:course.course,message_ids:0
+msgid "Messages"
+msgstr "Messages"
+
+#. module: course
+#: help:course.course,message_ids:0
+msgid "Messages and communication history"
+msgstr "Messages and communication history"
+
+#. module: course
+#: field:course.course,student_ids:0
+msgid "Student ids"
+msgstr "学生"
+
+#. module: course
+#: field:course.course,message_summary:0
+msgid "Summary"
+msgstr "Summary"
+
+#. module: course
+#: field:course.course,teacher_id:0
+msgid "Teacher"
+msgstr "教师"
+
+#. module: course
+#: field:course.course,message_unread:0
+msgid "Unread Messages"
+msgstr "Unread Messages"
+
+#. module: course
+#: field:course.course,color:0
+msgid "color"
+msgstr "颜色"
+
+#. module: course
+#: field:course.course,name:0
+msgid "name"
+msgstr "课程名称"
+
+#. module: course
+#: field:course.course,price:0
+msgid "price"
+msgstr "价格"
+
+#. module: course
+#: field:course.course,provider_latitude:0
+msgid "provider_latitude"
+msgstr "provider_latitude"
+
+#. module: course
+#: field:course.course,provider_longitude:0
+msgid "provider_longitude"
+msgstr "provider_longitude"
+
+#. module: course
+#: view:course.course:course.view_course_form
+msgid "students"
+msgstr "学生"
+
+#. module: course
+#: view:course.course:course.view_course_form
+msgid "test"
+msgstr "test"
+
